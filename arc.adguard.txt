@@ -1,4 +1,4 @@
-tracker.arc.io
-tkr.arc.io
-arc.io/widget.js
-arc.io/widget.min.js
+||arc.io/widget.js
+||arc.io/widget.min.js
+||tracker.arc.io
+||tkr.arc.io
